@@ -17,7 +17,7 @@ public class BinaryGap {
 			           System.out.print( A[i]);
 		        else {
 		            count = 0;
-		           System.out.println( i = j - 1);
+		           System.out.println( i = j-1);
 		        }
 		    }
 		    
